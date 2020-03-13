@@ -22,6 +22,8 @@ public class Geometria {
 		figuras.add(new Piramide(2,2,2));
 		figuras.add(new Esfera(5));
 		figuras.add(new Cilindro(10,2));
+		
+		System.out.println("Primeiro Commit efetuado atraves do Eclipse !!!!!      ");
 
 		for(Figura fig: figuras) {
 			if(fig instanceof Tridimensional) {
