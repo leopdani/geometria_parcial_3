@@ -26,6 +26,8 @@ public class Geometria {
 		System.out.println("Primeiro Commit efetuado atraves do Eclipse !!!!!      ");
 		
 		System.out.println("Segundo Commit efetuado atraves do Eclipse !!!!!      ");
+		
+		System.out.println("terceiro Commit efetuado atraves do Eclipse !!!!!      ");
 
 		for(Figura fig: figuras) {
 			if(fig instanceof Tridimensional) {
